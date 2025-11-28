@@ -1,4 +1,4 @@
-# 🌐 Multilingual LinkedIn Post Generator | Powered by LLaMA 3.3 on Gorq Cloud
+# 🌐AI LinkedIn Writer
 
 As a student passionate about AI and real-world applications of large language models, I built a LinkedIn post generator that creates **professional, multilingual captions** using **LLaMA 3.3 hosted on Gorq Cloud**.
 
